@@ -12,4 +12,4 @@ Blender (for integrate render): https://www.blender.org/download/
 3) Click “Color” to apply a new color; if you already have another material applied to the model, you can choose that one as well
 
 ### Tutorial
-![Tutorial](https://github.com/MoonDragon-MD/IngeTrazo-same_mat/blob/main/tutorial.GIF?raw=true)
+![Tutorial](https://github.com/MoonDragon-MD/IngeTrazo-same_mat/blob/main/tutorial.gif?raw=true)
